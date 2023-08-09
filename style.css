@@ -1,0 +1,35 @@
+a{ 
+    color: #080e0f;
+    text-decoration-line: underline pink dotted 5px;
+    text-shadow: 15px 3px 1px #ef7b8f;
+}
+#a1{
+    color: purple;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+    text-decoration-thickness:5px;
+}
+p{
+    text-transform: uppercase;
+     letter-spacing: 5px;
+    white-space: pre;
+    
+    
+}
+#p1{
+    text-indent: 50px;
+    word-spacing: 10px;
+    line-height: 200%;
+    white-space: nowrap;
+}
+#p2{
+    white-space: pre-line;
+}
+#p3{
+    white-space: pre-wrap;
+    text-shadow: 0px 0px 2px red,0px 0px 3px blue,0px 0px 4px darkgreen;
+}
+.c1{
+    font-family: cursive;
+}

@@ -4,18 +4,20 @@ a{
     text-shadow: 15px 3px 1px #ef7b8f;
 }
 #a1{
-    color: purple;
-    text-decoration-line: underline;
-    text-decoration-style: double;
-    text-decoration-color: red;
-    text-decoration-thickness:5px;
+    color:black;
+	text-decoration-line:  underline;
+	text-decoration-style: wavy;
+	text-decoration-color: indianred;
+	text-decoration-thickness:5px;
+	text-transform: capitalize;
+	text-shadow: 10px;
+	text-shadow:-2px 0px 1px #ea1981, 0 0 2px #ff00a7,0 0 4px #001980 ;
+	font-family: cursive;
 }
 p{
     text-transform: uppercase;
      letter-spacing: 5px;
     white-space: pre;
-    
-    
 }
 #p1{
     text-indent: 50px;
